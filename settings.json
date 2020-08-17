@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "path": "../Intents_en.xlsx",
+            "fulfill": ["Fulfilment"]
+        }
+    ],
+    "entities": [
+        {
+            "path": "../Entities.xlsx"
+        }
+    ],
+    "agent": "../agent.json"
+}

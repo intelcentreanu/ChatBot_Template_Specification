@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package>
+  <metadata>
+    <id>ChatBot.Content.Alex</id>
+    <version>1.0.0</version>
+    <title>Content build file</title>
+    <authors>Liam King, Justin Au, Ben Storer, Will Henderson</authors>
+    <owners>IDTC</owners>
+    <description>ChatBot for ANU Student Central Bot</description>
+    <summary> Content build package </summary>
+  </metadata>
+  <files>
+    <file src="Alex2.0\build\**" target="build"/>
+  </files>
+</package>
